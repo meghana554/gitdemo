@@ -1,3 +1,2 @@
-print("meghana gender is female")
-print("amrutha is idiot")
+print("meghana gender is male")
 print("amrutha is good")
